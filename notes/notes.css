@@ -1,0 +1,59 @@
+h1{
+
+  font: bold italic 28pt Impact, "Franklin Gothic Bold", "Arial Black", sans-serif;
+}
+
+p{
+
+  font: bold 16pt Consolas, "Courier New", Courier, monospace;
+}
+.blue_box{
+  border:10px solid red;
+  padding:0.5em;
+  width:150px;
+  height:100px;
+  margin:0.5em;
+}
+.green_box {
+  border:10px solid green;
+  padding:0.5em;
+  width:50px;
+  height:20px;
+  margin:0.5em;
+  li {
+    font-size: 1.5em;
+  }
+  .highlight{
+     background-size: auto;
+    font-weight: bold;
+    color: red;
+  }
+  .done{
+    text-decoration: line-through;
+  }
+
+  .container{
+    float:right;
+  }
+
+  .box{
+    width: 100px;
+    height: 100px;
+    text-align: center;
+    font-size: 30px;
+    font-weight: bold;
+    font-family: sans-serif;
+  }
+
+  .red{
+    background-color: red;
+  }
+
+  .green{
+    background-color: green;
+  }
+
+  .yellow{
+    background-color: yellow;
+  }
+  
